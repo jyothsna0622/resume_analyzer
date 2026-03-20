@@ -1,5 +1,7 @@
 streamlit
 chromadb
 langchain
+langchain-community
+langchain-core
 langchain-groq
 PyPDF2
