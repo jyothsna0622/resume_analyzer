@@ -2,7 +2,7 @@ import os
 import streamlit as st
 import chromadb
 from langchain_text_splitters import RecursiveCharacterTextSplitter
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain_groq import ChatGroq
 from PyPDF2 import PdfReader
 
