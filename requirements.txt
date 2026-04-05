@@ -6,3 +6,4 @@ langchain-core
 langchain-community
 langchain-text-splitters
 langchain-groq
+protobuf==3.20.3
